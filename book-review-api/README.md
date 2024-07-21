@@ -49,7 +49,7 @@ Follow these instructions to set up and run the project locally.
 
 2. **Install dependencies:**
     yarn install
-    # or
+    or
     npm install
 
 3. **Configuration**
@@ -67,7 +67,7 @@ Follow these instructions to set up and run the project locally.
 
 4. **Running the Application**
     yarn dev
-    # or
+    or
     npm run dev
     The server will start on http://localhost:4000.
 
